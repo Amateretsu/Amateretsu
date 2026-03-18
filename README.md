@@ -1,4 +1,4 @@
-# Hey there, I'm Amateretsu 👋
+# Hey there, I'm Justin 👋
 
 > *Automating the boring stuff, integrating the interesting stuff, and occasionally asking "why doesn't this API work?"*
 
